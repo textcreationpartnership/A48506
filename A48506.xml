@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Lilly's new prophecy, or, Certain notable passages in his writings observed to which is added, an astrological account of the future plenty or scarcity, dearth or cheapness of most sorts of fruits of the earth, merchandize, and commodities : as also, of the great floods, extraordinary snows, and other remarkable alterations of weather, and the diseases like to be predominant in peoples bodies this winter and the spring following.</title>
+            <author>Lilly, William, 1602-1681.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48506</idno><idno type="EEBO-CITATION">12245871</idno>
+  <idno type="VID">56936</idno>
+  <idno type="EEBO-PROQUEST">2240951330</idno>
+  
+            <idno type="STC">Wing L2230</idno>
+            <idno type="STC">ESTC R31698</idno>
+            <idno type="OCLC">12245871</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48506)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56936)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1507:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Lilly's new prophecy, or, Certain notable passages in his writings observed to which is added, an astrological account of the future plenty or scarcity, dearth or cheapness of most sorts of fruits of the earth, merchandize, and commodities : as also, of the great floods, extraordinary snows, and other remarkable alterations of weather, and the diseases like to be predominant in peoples bodies this winter and the spring following.</title>
+                  <author>Lilly, William, 1602-1681.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained, with print showthrough and loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Astrology.</term>
+               <term type="topical_term">Prophecies (Occultism)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56936:1"/>
+            <p>Mr. Lilly's NEW PROPHECY: OR, Certain notable PASSAGES in his Writings observed.</p>
+            <p>To which is added, An ASTROLOGICAL ACCOUNT of the future Plenty or Scarcity, Dearth or Cheapness of most sorts of Fruits of the Earth, Merchandize, and Commodities.</p>
+            <p>AS ALSO, Of the great Floods, extraordinary Snows, and other remarkable Alterations of Weather, and the Diseases like to be predominant in peoples bodies this Winter and the Spring following.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>With Allowance.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>L. C.</hi> 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:56936:2"/>
+            <pb n="3" facs="tcp:56936:2"/>
+            <head>Mr. <hi>LILLIES</hi> New Prophecy, or, certain notable passages in his Writings observed.</head>
+            <p>INferiours are govern'd by Superiours; there is an appoint<g ref="char:EOLhyphen"/>ed season for every thing under the sun. Heaven is a large expanded Volume, in which may be read many grand Mutations, (as effects in the bosome of their causes, or events pre-notified by certain signs) long before they are brought into act here on Earth. But those mystick draughts, signifie little to vulgar Eyes, who know not how to put together those abstruser Characters, so as to spell Truth, or discover any certainty: yet there are not wanting some sagacious spirits, whom <hi>Ʋrania</hi> makes her Favorites, and admits into the innermost re<g ref="char:EOLhyphen"/>cesses of her Sacred Temple. Amongst these, our <hi>English</hi> Artists are not a little beholding to our Modern <hi>Merlin,</hi> the Judicious Mr. <hi>W. L.</hi> whose Writings, to an intelligent Reader, have often given very clear hints of future Occurrences. I shall omit his several years Prognosticks of the difficulty of obtaining that Peace beyond the Seas, which has preserved <hi>Flanders</hi> from that immi<g ref="char:EOLhyphen"/>nent danger wherewith it was threatned; and will only repeat some expressions in his <hi>Anglicus,</hi> leaving every Man to make his own Comment or Application.</p>
+            <p>In <hi>Augusts</hi> Observation, he has these words; <hi>Heaven bless our Nation from Tumults, Insurrections, <hi>Plots,</hi> raging Diseases,</hi> &amp;c. And we may very well remember what a lamentable sickly time that was throughout <hi>England,</hi> and what other matters have been since <hi>discovered,</hi> which questionless were then, or long before in Embryo.</p>
+            <pb n="4" facs="tcp:56936:3"/>
+            <p>In <hi>September,</hi> he tells us <hi>Of various Lies and Disturbances of the Magistrate, false and dangerous, Intellige<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to sow the seeds of division. But (says he) the pro<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ters of such <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is<g ref="char:EOLhyphen"/>chiefs are discovered, and many persons who before were well esteemed, and in great splendor, now wholly out of favor, or dis<g ref="char:EOLhyphen"/>carded from their Places and Power. <hi>And this in some Coun<g ref="char:EOLhyphen"/>tries not far remote.</hi>
+               </hi>
+            </p>
+            <q>
+               <l>— Quid potuit è Tripode dici</l>
+               <l>Verius? —</l>
+            </q>
+            <p>How apposite a Description is here! and yet in <hi>October</hi> he pro<g ref="char:EOLhyphen"/>ceeds with this expression, <hi>Let the Authors of dissention now <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pect to receive their reward.</hi>
+            </p>
+            <p>To these I might add the Remarks of another eminent Astro<g ref="char:EOLhyphen"/>loger, the Ingenious Mr. <hi>John Gadbury,</hi> who in his Almanack very notably harps on the same string, and in some respect, speaks out more plain and particularly; as for example, in his Obser<g ref="char:EOLhyphen"/>vation on the said Month of <hi>September,</hi> speaking of the Square of <hi>Mars</hi> and <hi>Mercury,</hi> he tells us, <hi>That several wicked things are commonly acted under such a Position;</hi> and positively asserts, <hi>That Projectors of malignant devices should be then brought to light.</hi> And in <hi>October,</hi> he is yet more express, in these words, <hi>Cadit in Roma<g ref="char:EOLhyphen"/>nos invidia &amp; odium;</hi> in English thus: The <hi>Romanists</hi> about this time are much envyed, and justly hated; and a few lines after: <hi>God preserve a great Prince of</hi> Europe, <hi>from some sudden violence; be ought to be suspicious of his very friends at this time.</hi>
+            </p>
+            <p>But these things I only recite <hi>in Transitu,</hi> and hasten to make some Astrological Conjectures of the state of the next year, es<g ref="char:EOLhyphen"/>pecially as it relates to Scarcity or Plenty, <hi>&amp;c.</hi> In order to which, we have reasons in Art to judge, that the approaching Winter will in general be kind and seasonable; only about the end of <hi>November,</hi> extraordinary Rains are like to happen, and mighty Floods in several places. In the Revolutional figure of the next year, <hi>Gemini</hi> ascends, and the two Fortunes are in Conjunction
+<pb n="5" facs="tcp:56936:3"/> with the Sun, in the House of Hopes; but <hi>Saturn</hi> within a degree of the <hi>Horoscope,</hi> sets the common people a muttering &amp; repining; and this the rather, because <hi>Mercury</hi> is in his detriment, which perhaps may bashe the Tradesmans hopes, and encrease the number of Bankrupts. As to the Fruits of the Earth, they seem like to be but sparingly produced, and a scarcity, rather than plenty of Corn, Hay, Orchard, or Garden-Fruits, <hi>&amp;c.</hi> The An<g ref="char:EOLhyphen"/>tients tell us, That Planets which are Oriental, have signification of dearness in Commodities; and Occidental Planets of their cheapness: but that we may ground our conjectures on better circumstances, we shall run over the Goods signified by each Planet, and the state of that Planet, as he is strong or weak throughout the year; when he is strong, the Merchandise re<g ref="char:EOLhyphen"/>presented by him goes off quick, and bears a good price; when weak, expect the contrary.</p>
+            <p>First then, to <hi>Saturn</hi> are ascribed, the grosser Commodities dug out of the Earth, as Marble, or other stone; Lead, Coals, Wood, Black-cloth, and all kind of ill-smelling Drugs. Now <hi>Saturn</hi> from this present <hi>October,</hi> is Occidental and Retrograde, (the greatest weakness that can befal a Planet) till the seventh of <hi>Fe<g ref="char:EOLhyphen"/>bruary</hi> next; but after that, becomes direct, and so continues the rest of the year; arguing, that from that time, the Wares signified by him, may in all probability rise; and the Usurer (for he is under <hi>Saturn</hi> too) perhaps meet not with so many Cheats and insolvent persons as before.</p>
+            <p>
+               <hi>Jupiter</hi> claims the Governance of Wheat, Rye, and Barley; and the best of Drapery, as Scarlet-cloth, <hi>&amp;c.</hi> Likewise Saffron and Hopps are signified by him, who continues very strong all <hi>November</hi> and <hi>December</hi> in his own House. Nor is he much weaker afterwards in <hi>Aries,</hi> being his Triplicity, till the 20th of <hi>August</hi> 1679. at which time he becomes Retrograde in <hi>Taurus;</hi> whence we may judge, that <hi>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pps</hi> the next year will be a very ticklish Commodity, promising a great price, but suddenly falling, even contrary to all expectation, and many frauds apt to happen between persons Trading therein. Let those concerned remem<g ref="char:EOLhyphen"/>ber our words, and beware— <hi>Nulli cavisse nocebit.</hi>
+            </p>
+            <pb n="6" facs="tcp:56936:4"/>
+            <p>To <hi>Mars</hi> belong Bricks, Iron, Charcoal, Tobacco and <hi>Coffee;</hi> and that the last does so, we have a late instance, when upon the Square of <hi>Mars</hi> and <hi>Mercu<g ref="char:EOLhyphen"/>ry,</hi> that Commodity on a sudden started up to a pro<g ref="char:EOLhyphen"/>digious rate (above double the usual price) in a few hours, to the considerable prejudice of the Retailers. This Planet <hi>Mars</hi> becomes Retrograde in <hi>Leo,</hi> on the 12th of <hi>December,</hi> and so continues till the second of <hi>March</hi> following. On the 7th of <hi>January</hi> he oppo<g ref="char:EOLhyphen"/>ses <hi>Mercury;</hi> the 20th and 21th of the same Month, the Sun and <hi>Venus;</hi> on those days, or for two or three days before and after, it will be prudence to forbear Trading in any Goods signified by <hi>Mars.</hi>
+            </p>
+            <p>The Sun signifies Gold, Precious Stones, and the like; and as he is never Retrograde, so they are never out of esteem; and therefore I shall not need to speak any farther of them.</p>
+            <p>
+               <hi>Venus</hi> represents all sorts of Wines, but especially Canaries, Malaga's <hi>&amp;c.</hi> Also Spices, Oil, Sugar, Silks, and all things of ornament for the Body. At the Re<g ref="char:EOLhyphen"/>volution she is in her Detriment; which signifies in general, That those things should bear but an indiffe<g ref="char:EOLhyphen"/>rent price this year, but in the latter end of <hi>March,</hi> and beginning of <hi>April,</hi> they may rise a little. But have a care of Trading in <hi>Venus</hi>'s Commodities of any kind, near the 21th of <hi>January,</hi> the 19th of <hi>Februa<g ref="char:EOLhyphen"/>ry,</hi> the last of <hi>March,</hi> the 9th of <hi>May,</hi> the 3 or 15th of <hi>August,</hi> or any of them; the Gallant may get a <hi>Clap,</hi> or the Tradesman a <hi>Cracke</hi> that will then be tampering.</p>
+            <p>Under <hi>Mercury</hi> are Books, Paper, Druggets, and
+<pb n="7" facs="tcp:56936:4"/> Silks or Stuffs of several Colours. In the figure of the World, he alone is Oriental, and just on the Cusp of the 11th; which denotes, that Commodities signified by him, may keep up a good price most part of the year; that many Books will be Printed, and peoples fingers much troubled with the itch of scribling.</p>
+            <p>Under the Moon are all sorts of Fish and bulbous Plants: she finishing her Revolution every Month, and consequently in that time meeting with all the Raies of the other Planets, no general rule can be given, but in all Bargains you ought to look to her condition, that she be free from Affliction, and apply well to one of the Fortunes. If you would but observe this with<g ref="char:EOLhyphen"/>out superstition for one year in your dealings, 'tis forty to one but you will find cause to acknowledge, there is a great deal of truth in Astrology, and find a key, which turn'd by a discreet hand, so as neither to over<g ref="char:EOLhyphen"/>shoot Piety, nor hamper the Wards of Industry, might unlock to you divers advantagious truths.</p>
+            <p>'Tis probable, (such is the prowd vanity of wretched Man) you might have been better pleased, had we entertained you with a discourse of the Fate of King<g ref="char:EOLhyphen"/>domes, Fortunes of Monarchs and States, the Ca<g ref="char:EOLhyphen"/>tastrophes of Nations by Peace or Wars, and other lofty affairs, that you are never like to be concern'd with. But our Pen is more modest, than to rush into Princes Cabinets: We are, blessed be God, hitherto in Peace, and we trust by his infinite mercies shall so con<g ref="char:EOLhyphen"/>tinue, notwithstanding all the Machinations of wicked Men. Besides, <hi>Europe</hi> in general, seems tending to Tranquillity— <hi>O utinam! sed nonne videtur tantum?</hi>
+               <pb n="8" facs="tcp:56936:5"/> The Celestial Bodies are not idle, nor the crying sins of Men slack to draw down renewed iudgments. When shall <hi>Janus</hi> his Temple be wholly shut? it will be, but not yet. Great works require great preparati<g ref="char:EOLhyphen"/>ons, and <hi>who shall live when God doth this?</hi>
+            </p>
+            <q>—Superba prius Babilon spolianda Tropheis.</q>
+            <p>There must be many struglings, bitter throws, and sharp pangs; Wars and rumours of War<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; Nation against Nation, Kingdom against Kingdom, <hi>&amp;c.</hi> be<g ref="char:EOLhyphen"/>fore the glorious Birth appear. Yet a Wilderness, and yet a Red-sea to be passed, before a full prospect of <hi>Canaan.</hi> Just before break of day, 'tis darker than all the night before: but the Gates of Hell shall not pre<g ref="char:EOLhyphen"/>vail. The active Cock by frequent Crowings alarms us of the approach of the Sun. Heaven draws the Cur<g ref="char:EOLhyphen"/>tains of the East, and the Birds of the everlasting Morning, the first-born of Paradise, begin to sing. <hi>The day breaks, and the shadows flee away. Oh then, make hast my Beloved, and come like a Roe, or like the Hinds of the field over the Mountains of Spices.</hi> Quousque, Domine! quousque?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
